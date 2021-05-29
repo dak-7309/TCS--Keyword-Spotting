@@ -1,0 +1,5 @@
+conda install -c numba numba
+conda install -c conda-forge librosa
+conda install -c conda-forge python-sounddevice
+!pip3 install wavio
+!/Users/vikasthapar/opt/anaconda3/bin/python -m pip install wavio
